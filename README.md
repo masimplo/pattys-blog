@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3d97cf6e-e56e-4b84-bfe0-83a4ea70380d/deploy-status)](https://app.netlify.com/sites/verdant-faun-5b940a/deploys)
+
 ![Netlify Next.js Blog Template designed by Bejamas](github-banner.svg)
 
 [![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/nextjs-blog-theme)
