@@ -1,17 +1,8 @@
 {
-  "name": "nextjs-blog-theme",
+  "name": "pattys-blog",
   "description": "A customizable Next.js and Tailwind blog starter. Designed by the Bejamas agency.",
   "author": "Bejamas and Netlify Inc.",
-  "contributors": [
-    "Charlie Gerard",
-    "Prince Wilson",
-    "Tara Manicsic",
-    "Thom Krupa"
-  ],
-  "homepage": "https://github.com/netlify-templates/nextjs-blog-theme",
-  "bugs": {
-    "url": "https://github.com/netlify-templates/nextjs-blog-theme/issues"
-  },
+  "homepage": "https://pgourou.com",
   "scripts": {
     "dev": "next",
     "dev:watch": "next-remote-watch ./posts",
@@ -21,24 +12,24 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@mapbox/rehype-prism": "^0.8.0",
-    "@netlify/plugin-nextjs": "4.9",
-    "@tailwindcss/typography": "^0.5.0",
-    "classnames": "^2.3.1",
-    "gray-matter": "^4.0.2",
-    "next": "latest",
-    "next-mdx-remote": "^3.0.1",
+    "@mapbox/rehype-prism": "0.8.0",
+    "@netlify/plugin-nextjs": "4.9.3",
+    "@tailwindcss/typography": "0.5.2",
+    "classnames": "2.3.1",
+    "gray-matter": "4.0.3",
+    "next": "12.2.0",
+    "next-mdx-remote": "4.0.3",
     "next-remote-watch": "1.0.0",
-    "prismjs": "^1.25.0",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "prismjs": "1.28.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.0",
-    "eslint": "<8.0.0",
-    "eslint-config-next": "12.0.10",
-    "eslint-config-prettier": "^8.3.0",
-    "postcss": "^8.4.4",
-    "tailwindcss": "^3.0.0"
+    "autoprefixer": "10.4.7",
+    "eslint": "8.18.0",
+    "eslint-config-next": "12.2.0",
+    "eslint-config-prettier": "8.5.0",
+    "postcss": "8.4.14",
+    "tailwindcss": "3.1.4"
   }
 }
